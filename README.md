@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Killdery, I have more than 5 years of experience with Web and Mobile Development in building websites, portals, data integrations, apps and more. Since 2016 I have worked in development with technologies such as PHP, JavaScript, Oracle Database, MySQL, Postgres, as well as knowledge in Docker, Linux, React Native, Ionic, Bootstrap, HTML and CSS.</h3>
+<h3 align="left">Hi 👋! My name is Killdery, I have more than 6 years of experience with Web and Mobile Development in building websites, portals, data integrations, apps and more. Since 2016 I have worked in development with technologies such as PHP, JavaScript, Oracle Database, MySQL, Postgres, as well as knowledge in Docker, Linux, React Native, Ionic, Bootstrap, HTML and CSS.</h3>
 
 ###
 
